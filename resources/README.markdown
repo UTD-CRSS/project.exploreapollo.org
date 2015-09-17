@@ -1,5 +1,5 @@
-
-COLLECTION OF USEFUL THINGS
+Useful Things
+=============
 
 1) Website that shows two channels - space to ground and flight director loop:
 
