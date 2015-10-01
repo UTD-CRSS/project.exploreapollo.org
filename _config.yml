@@ -1,0 +1,7 @@
+# Site settings
+title: Exploreapollo.org Project
+description: >
+  Documentation for the exploreapollo.org project
+
+# Build settings
+markdown: kramdown

@@ -1,3 +1,7 @@
+---
+title: Database Schema Ideas
+---
+
 P3: NASA Apollo Rich Audio Access
 =================================
 

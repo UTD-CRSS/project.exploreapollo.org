@@ -1,3 +1,7 @@
+---
+title: Project Module Map
+---
+
 ## Project Overview
 The goal of this project is to build an interface that makes the 14,000 hours of Apollo Mission audio discoverable. Filtering, searching, and visualization of the audio should be possible. The goal of this thread is to organize the engineering effort for the critical path. 
 

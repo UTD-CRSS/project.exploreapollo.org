@@ -1,5 +1,12 @@
-Useful Things
-=============
+---
+title: Project Resources
+---
+
+## Documentation
+
+- [Project Module Map](project-module-map.html)
+
+## Misc 
 
 1) Website that shows two channels - space to ground and flight director loop:
 
