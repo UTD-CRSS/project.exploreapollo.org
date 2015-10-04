@@ -1,4 +1,6 @@
-# Audio File Manipulation Research
+---
+title: Audio File Manipulation Research
+---
 
 ## SoX - Sound eXchange
 
