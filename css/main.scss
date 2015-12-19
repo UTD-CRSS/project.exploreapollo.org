@@ -4,3 +4,9 @@
 @import "typographic";
 
 @include typographic();
+
+.post-header, .post-content, .post-divider {
+  max-width: 35em;
+  margin-left: auto;
+  margin-right: auto;
+}

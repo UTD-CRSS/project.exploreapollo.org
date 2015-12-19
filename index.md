@@ -18,3 +18,22 @@ title: Home
 {% for page in site.pages %}
 - [{{ page.title }}]({{ page.url }})
 {% endfor %}
+
+## Posts
+
+<ul>
+
+{% for post in site.posts %}
+
+<li>
+<div class="post-date">
+<span>{{ post.date | date: "%b %d, %Y" }}</span>
+</div>
+<div class="title">
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</div>
+</li>
+
+{% endfor %}
+
+</ul>
